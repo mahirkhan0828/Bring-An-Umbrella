@@ -16,8 +16,8 @@ URL = "https://weather.com/weather/today/l/110a124808308e4fc03ee2b75754a7e06e933
 sending_email = "umbrella.updates@gmail.com"
 mail_password = "muaafqsnxirscdpx"
 
-#recieving_email = str(input("Please enter your gmail: "))
-recieving_email = 'mahirkhan0828@gmail.com'
+recieving_email = str(input("Please enter your gmail: "))
+
 # This user agent is specific to the device used. To find your specific user agent, search up "My
 # User Agent in searchbar"
 headers = {
